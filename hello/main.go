@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/PH9/name"
+	"github.com/iPaoKung/GoLang/name"
 )
 
 func main() {
